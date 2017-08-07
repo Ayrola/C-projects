@@ -1,0 +1,19 @@
+﻿  Source.c
+e:\programming\technical university sofia\televisionshop\televisonshop\televisonshop\source.c(41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\programming\technical university sofia\televisionshop\televisonshop\televisonshop\source.c(26): warning C4101: 'i': unreferenced local variable
+e:\programming\technical university sofia\televisionshop\televisonshop\televisonshop\source.c(74): warning C4133: '=': incompatible types - from 'Node *' to 'NODE *'
+e:\programming\technical university sofia\televisionshop\televisonshop\televisonshop\source.c(55): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type '__int64 *'
+  e:\programming\technical university sofia\televisionshop\televisonshop\televisonshop\source.c(55): note: consider using '%lld' in the format string
+  e:\programming\technical university sofia\televisionshop\televisonshop\televisonshop\source.c(55): note: consider using '%I64d' in the format string
+e:\programming\technical university sofia\televisionshop\televisonshop\televisonshop\source.c(92): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\programming\technical university sofia\televisionshop\televisonshop\televisonshop\source.c(99): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+  e:\programming\technical university sofia\televisionshop\televisonshop\televisonshop\source.c(99): note: consider using '%lld' in the format string
+  e:\programming\technical university sofia\televisionshop\televisonshop\televisonshop\source.c(99): note: consider using '%I64d' in the format string
+e:\programming\technical university sofia\televisionshop\televisonshop\televisonshop\source.c(124): warning C4133: '=': incompatible types - from 'NODE *' to 'Node *'
+e:\programming\technical university sofia\televisionshop\televisonshop\televisonshop\source.c(128): warning C4133: '=': incompatible types - from 'NODE *' to 'Node *'
+e:\programming\technical university sofia\televisionshop\televisonshop\televisonshop\source.c(135): warning C4133: '=': incompatible types - from 'NODE *' to 'Node *'
+e:\programming\technical university sofia\televisionshop\televisonshop\televisonshop\source.c(144): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type '__int64 *'
+  e:\programming\technical university sofia\televisionshop\televisonshop\televisonshop\source.c(144): note: consider using '%lld' in the format string
+  e:\programming\technical university sofia\televisionshop\televisonshop\televisonshop\source.c(144): note: consider using '%I64d' in the format string
+  TelevisonShop.vcxproj -> E:\programming\Technical university Sofia\TelevisionShop\TelevisonShop\Debug\TelevisonShop.exe
+  TelevisonShop.vcxproj -> E:\programming\Technical university Sofia\TelevisionShop\TelevisonShop\Debug\TelevisonShop.pdb (Partial PDB)
